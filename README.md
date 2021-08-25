@@ -1,4 +1,4 @@
 # NuCampSite-Site
 
-A website for a campsite built using Bootstrap.
+A demo website I created for a campsite. I built this website using React | React Native | Bootstrap.
 
